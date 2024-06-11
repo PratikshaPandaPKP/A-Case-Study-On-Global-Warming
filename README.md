@@ -14,4 +14,4 @@
 - **CO2 Emission Per Capita in the USA (2020)**: Each person in the USA emitted approximately 1.2 kg of CO2 in 2020.
 - **Top 5 Emitters Over Time**: The analysis includes time series data of CO2 emissions from the USA, China, Russia, Germany, and the UK. Notably, the UK's emissions have declined due to the Climate Change Act, whereas the USA, China, Russia, and Germany have seen increases.
 
-**Achievement**: This project received an A+ grade, scoring 36 out of 50 points.
+**Achievement**: This project received an A+ grade, scoring 36 out of 50 points. The project demonstrated a strong understanding of data science techniques and their application to real-world issues, showcasing skills in data cleaning, statistical analysis, and the use of Python for data visualization.
