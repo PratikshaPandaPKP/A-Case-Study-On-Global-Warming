@@ -1,4 +1,4 @@
-Summary: This project, completed as part of a BS in Computer Science Semester 6 course, effectively highlighted the trends and disparities in CO2 emissions across different countries and time periods. This case study analyzes CO2 emissions in all countries from 1750 to 2022. The dataset was collected from Data.gov and includes various fields such as country, year, CO2 emissions, population in 2022, area, and more.
+**Summary:** This project, completed as part of a BS in Computer Science Semester 6 course, effectively highlighted the trends and disparities in CO2 emissions across different countries and time periods. This case study analyzes CO2 emissions in all countries from 1750 to 2022. The dataset was collected from Data.gov and includes various fields such as country, year, CO2 emissions, population in 2022, area, and more.
 
 **Data Processing**
 - **Initial Data Overview**: The dataset consists of 59,620 entries with 9 columns. Key columns include 'Country', 'Year', 'CO2 emission (Tons)', 'Population (2022)', 'Area', '% of World', and 'Density (km²)'.
